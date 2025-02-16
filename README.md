@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ai/ML ,  flask , React , Java , Spring boot<br>👯 I’m looking to collaborate on hackathon project<br>🤝 I’m looking for help with machine learning<br>🌱 I’m currently learning DSA , Spring boot<br>💬 Ask me about my newest repo<br>⚡ Fun fact into literature 
+🔭 I’m currently working on Ai/ML ,  flask , React , Java , Spring boot<br>👯 I’m looking to collaborate on hackathon project<br>🤝 I’m looking for help with machine learning<br>🌱 I’m currently learning DSA , Spring boot<br>💬 Ask me about my newest repo<br>
 
 
 ## 🌐 Socials:
